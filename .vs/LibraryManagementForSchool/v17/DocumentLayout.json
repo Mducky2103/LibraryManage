@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\returnhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\returnhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\returnedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\returnedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\borrowreceiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\borrowreceiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\borrowreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\borrowreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|d:\\fptu\\1_prn232\\code\\librarymanagementforschool\\librarymanagementforschool\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B08D7F0-163D-4962-9AD0-777FF6A994A0}|LibraryManagementForSchool\\LibraryManagementForSchool.csproj|solutionrelative:librarymanagementforschool\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\appsettings.json",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementForSchool\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T13:58:53.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Program.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Program.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:53:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:49:04.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:48:56.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:48:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\AppSettings.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\AppSettings.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:45:46.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\User.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\User.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:53.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReturnHistory.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\ReturnHistory.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\ReturnHistory.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\ReturnHistory.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\ReturnHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReturnedBooks.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\ReturnedBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\ReturnedBooks.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\ReturnedBooks.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\ReturnedBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Penalty.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Penalty.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\Penalty.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Penalty.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\Penalty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\Category.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Category.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Data\\LibraryDbContext.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:45:09.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowReceiptDetail.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\BorrowReceiptDetail.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\BorrowReceiptDetail.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\BorrowReceiptDetail.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\BorrowReceiptDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:27.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrowReceipt.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\BorrowReceipt.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\BorrowReceipt.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\BorrowReceipt.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\BorrowReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:16.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\Book.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForSchool\\Models\\Author.cs",
+              "ToolTip": "D:\\FPTU\\1_PRN232\\Code\\LibraryManagementForSchool\\LibraryManagementForSchool\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryManagementForSchool\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:47:08.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
